@@ -1,0 +1,65 @@
+{
+    "sacModel": {
+        "checkpoints": [
+            {
+                "steps": 484966,
+                "file_path": "results\\sacRun\\sacModel\\sacModel-484966.onnx",
+                "reward": null,
+                "creation_time": 1739536749.935541,
+                "auxillary_file_paths": [
+                    "results\\sacRun\\sacModel\\sacModel-484966.pt"
+                ]
+            },
+            {
+                "steps": 489950,
+                "file_path": "results\\sacRun\\sacModel\\sacModel-489950.onnx",
+                "reward": null,
+                "creation_time": 1739537450.8668423,
+                "auxillary_file_paths": [
+                    "results\\sacRun\\sacModel\\sacModel-489950.pt"
+                ]
+            },
+            {
+                "steps": 494953,
+                "file_path": "results\\sacRun\\sacModel\\sacModel-494953.onnx",
+                "reward": null,
+                "creation_time": 1739538132.2195451,
+                "auxillary_file_paths": [
+                    "results\\sacRun\\sacModel\\sacModel-494953.pt"
+                ]
+            },
+            {
+                "steps": 499964,
+                "file_path": "results\\sacRun\\sacModel\\sacModel-499964.onnx",
+                "reward": null,
+                "creation_time": 1739538858.3322275,
+                "auxillary_file_paths": [
+                    "results\\sacRun\\sacModel\\sacModel-499964.pt"
+                ]
+            },
+            {
+                "steps": 500006,
+                "file_path": "results\\sacRun\\sacModel\\sacModel-500006.onnx",
+                "reward": 456.0,
+                "creation_time": 1739538858.4223928,
+                "auxillary_file_paths": [
+                    "results\\sacRun\\sacModel\\sacModel-500006.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500006,
+            "file_path": "results\\sacRun\\sacModel.onnx",
+            "reward": 456.0,
+            "creation_time": 1739538858.4223928,
+            "auxillary_file_paths": [
+                "results\\sacRun\\sacModel\\sacModel-500006.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

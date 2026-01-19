@@ -1,0 +1,9 @@
+venv
+.vscode
+*.sln
+*.csproj
+Library
+Temp
+Obj
+Build
+Logs

@@ -1,0 +1,65 @@
+{
+    "ppoModel": {
+        "checkpoints": [
+            {
+                "steps": 484999,
+                "file_path": "results\\ppoRun\\ppoModel\\ppoModel-484999.onnx",
+                "reward": 842.5454545454545,
+                "creation_time": 1739213614.5638711,
+                "auxillary_file_paths": [
+                    "results\\ppoRun\\ppoModel\\ppoModel-484999.pt"
+                ]
+            },
+            {
+                "steps": 489990,
+                "file_path": "results\\ppoRun\\ppoModel\\ppoModel-489990.onnx",
+                "reward": 787.5,
+                "creation_time": 1739213931.1697793,
+                "auxillary_file_paths": [
+                    "results\\ppoRun\\ppoModel\\ppoModel-489990.pt"
+                ]
+            },
+            {
+                "steps": 494957,
+                "file_path": "results\\ppoRun\\ppoModel\\ppoModel-494957.onnx",
+                "reward": 928.75,
+                "creation_time": 1739214232.441308,
+                "auxillary_file_paths": [
+                    "results\\ppoRun\\ppoModel\\ppoModel-494957.pt"
+                ]
+            },
+            {
+                "steps": 499937,
+                "file_path": "results\\ppoRun\\ppoModel\\ppoModel-499937.onnx",
+                "reward": 957.6666666666666,
+                "creation_time": 1739214552.0907795,
+                "auxillary_file_paths": [
+                    "results\\ppoRun\\ppoModel\\ppoModel-499937.pt"
+                ]
+            },
+            {
+                "steps": 500001,
+                "file_path": "results\\ppoRun\\ppoModel\\ppoModel-500001.onnx",
+                "reward": 957.6666666666666,
+                "creation_time": 1739214552.1512337,
+                "auxillary_file_paths": [
+                    "results\\ppoRun\\ppoModel\\ppoModel-500001.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500001,
+            "file_path": "results\\ppoRun\\ppoModel.onnx",
+            "reward": 957.6666666666666,
+            "creation_time": 1739214552.1512337,
+            "auxillary_file_paths": [
+                "results\\ppoRun\\ppoModel\\ppoModel-500001.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}
