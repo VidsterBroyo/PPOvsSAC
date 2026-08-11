@@ -8,6 +8,6 @@
 <div align="center">
 <img width="751" height="497" alt="image" src="https://github.com/user-attachments/assets/75d235fb-fc29-4ca2-9b75-44f1bde7b00e" />
 
-
+<br><br>
 <img width="800" height="600" alt="A Comparative Investigation of Proximal Policy Optimization and Soft Actor-Critic Models" src="https://github.com/user-attachments/assets/7a6c9afa-d2b5-41f8-96fe-a4a9edc2bedb" />
 </div>
